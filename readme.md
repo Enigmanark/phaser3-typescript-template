@@ -1,0 +1,1 @@
+In terminal run "yarn run dev" to start the server.
